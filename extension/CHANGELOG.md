@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Pi Pack • Web [pibcht.pack-web](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-web)
+
 ## [1.0.0]
 
 ### Added
